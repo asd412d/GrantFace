@@ -1,4 +1,4 @@
-# PAIRS: Selective Face Protection through Aggregated Input-to-Representation Sensitivity
+# GrantFace: Who Gets to Recognize Your Face?
 ## Environment Setup
 ```bash
 conda create -n face-protection python=3.10 -y
